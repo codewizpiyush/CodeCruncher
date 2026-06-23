@@ -1,5 +1,12 @@
 # 🚀 CodeCruncher - AI Powered Code Complexity Analyzer
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-API-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 CodeCruncher is a full-stack MERN application that helps developers analyze code quality, evaluate time and space complexity, visualize performance metrics, and receive AI-powered insights for code optimization.
 
 The platform combines modern web technologies with AI to provide an interactive coding environment where users can write, analyze, and improve their code efficiently.
